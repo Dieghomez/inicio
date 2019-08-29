@@ -1,0 +1,66 @@
+.fondo{
+    background-image: url(C:/Users/Sistemas/Desktop/css-01/img/fondo.jpg);
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px;
+  background-repeat: no-repeat; background-size: cover;
+  background-position: center center;">
+}
+.title{
+ background: rgb(233, 192, 139)
+  color: whitesmoke;
+  font-style: italic;
+  font-size: 2rem;
+  font-display: inherit;
+  padding: 1rem;
+  margin: 1rem;
+}
+.centrado{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.sect-1{
+ 
+}
+.menu-1{
+  list-style-type: none;
+  margin: auto 23%  ;
+  overflow: hidden;
+  display: flex;
+}
+ul {
+  list-style-type: none;
+  bottom: auto;
+  padding: 10px auto;
+  overflow: auto
+  background-color: transparent;
+}
+
+li a {
+  font-weight: 900;
+  display: auto;
+  color: wheat;
+  text-align: center;
+  padding: 11px;
+  text-decoration: none;
+}
+
+li :hover {
+  background-color: rgb(118, 199, 185);
+  border: 8px double black;
+  }
+.reset 
+{
+border:3px double rgb(118, 199, 185);
+}
+.submit{
+border:5px double rgb(118, 199, 185);
+}
+.img1{
+  background-image: url();
+}
